@@ -1,0 +1,12 @@
+{
+  "name": "hexlet-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
